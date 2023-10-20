@@ -27,6 +27,12 @@ cd path_to_kafka
 
 8.Don’t close command window.
 
+9.Open new command window and clone repository.
+
+git clone https://github.com/dvzadara/kafka-lab
+
+cd kafka-lab
+
 9.Install python libraries from requirements.txt
 pip install -r requirements.txt
 
